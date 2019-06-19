@@ -49,11 +49,11 @@ sass mixins，require `Sass ~> 3.3.0`
 ## usage
 
 ```shell
-npm i mixins-sass --save
+npm i oh-mixins-sass --save
 ```
 
 ```scss
-@import "./node_modules/mixins-sass/src/mixins";
+@import "./node_modules/oh-mixins-sass/src/mixins";
 ```
 
 ## utility
@@ -366,7 +366,7 @@ body {
 @function str-replace($string, $search, $replace: "")
 ```
 
-**list** 
+**list**
 
 ### first
 
